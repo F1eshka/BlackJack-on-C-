@@ -44,6 +44,12 @@ BlackJack - це консольна карткова гра, реалізова�
 - **PROJECT.BlackJack.csproj**: Файл проекту.
 - **README.md**: Опис проекту.
 
+- ## Видеообзор
+
+[![Скриншот видео](https://drive.google.com/file/d/1iRRxYbt8m_h_RCx_KjMX8jWeXJUdrWhu/view?usp=drive_link)](https://drive.google.com/file/d/1yXiM4ilpiEaarjtoyXYA-Y2LL8hkGv18/view?usp=drive_link)
+
+В этом видео я демонстрирую, как работает мой проект BlackJack.
+
 
 ### Контакти
 * Gmail: Bm.work07@gmail.com
