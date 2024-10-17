@@ -46,7 +46,7 @@ BlackJack - це консольна карткова гра, реалізова�
 
 - ## Видеообзор
 
-[![Скриншот видео](https://drive.google.com/file/d/1iRRxYbt8m_h_RCx_KjMX8jWeXJUdrWhu/view?usp=drive_link)](https://drive.google.com/file/d/1yXiM4ilpiEaarjtoyXYA-Y2LL8hkGv18/view?usp=drive_link)
+[![Видео процесса](https://drive.google.com/file/d/1iRRxYbt8m_h_RCx_KjMX8jWeXJUdrWhu/view?usp=drive_link)](https://drive.google.com/file/d/1yXiM4ilpiEaarjtoyXYA-Y2LL8hkGv18/view?usp=drive_link)
 
 В этом видео я демонстрирую, как работает мой проект BlackJack.
 
